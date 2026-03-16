@@ -1,0 +1,17 @@
+{
+    "Name": "pons8-yo_16xdownsampled",
+    "BIDSVersion": "1.10",
+    "HEDVersion": "8.3.0",
+    "Description": "Downsampled image of pons slice #8 stained with a nuclear dye. For testing only.\n",
+    "DatasetType": "raw",
+    "Authors": null,
+    "License": null,
+    "GeneratedBy": [
+        {
+            "Name": "nwb2bids",
+            "Version": "0.9.1.dev27+gf0fb7253c",
+            "Description": "Tool to reorganize NWB files into a BIDS directory layout.",
+            "CodeURL": "https://github.com/con/nwb2bids"
+        }
+    ]
+}
